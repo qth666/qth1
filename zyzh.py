@@ -5,7 +5,7 @@ import pandas as pd
 col1, col2 = st.columns([1, 3])
 with col1:
     
-    st.image("http://www.xuexili.com/uploads/allimg/2304/3-2304301HA5521.jpg")
+    st.image("https://www.shanghairanking.cn/_uni/logo-jpg/8192216600.jpg")
 with col2:
     st.markdown('# ***:blue[广西职业师范学院]***')
     st.markdown(':blue[Guangxi Vocational Normal University]')
